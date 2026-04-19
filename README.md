@@ -5,7 +5,7 @@
 ### 👋 Hi, I'm Denisha
 
 ### Stack
-`Go` `Python` `Rust` `C` `Tenserflow` `Linux` `Docker`
+`Go` `Python` `Rust` `C` `Linux` `Docker` `Shell`
 
 ### Current
 - **[Ramtier](https://github.com/dm0x23/ramtier)** – Intelligent cache tiering with a TUI.
