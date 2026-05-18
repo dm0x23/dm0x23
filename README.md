@@ -3,7 +3,6 @@
 </h1>
 
 ### 👋 Hi, I'm Denisha
-> I am now also on **[Codeberg](https://codeberg.org/dm0x23)**
 
 ### Stack
 `Go` `Python` `Rust` `C` `Linux` `Docker` `Shell`
