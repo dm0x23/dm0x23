@@ -5,7 +5,7 @@
 ### 👋 Hi, I'm Denisha
 
 ### Stack
-`Go` `Python` `Rust` `C` `Linux` `Docker` `Shell``Java`
+`Go` `Python` `Rust` `C` `Linux` `Docker` `Shell` `Java`
 
 ### GitHub Stats
 ![](https://streak-stats.demolab.com/?user=dm0x23&theme=catppuccin_mocha&hide_border=false)<br/>
